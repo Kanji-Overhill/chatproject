@@ -181,3 +181,16 @@ body{
 .profile .col-6{
     font-size: .75rem;
 }
+.conversation-in img{
+    width: 100%;
+    max-width: 60px;
+    border-radius: 100%;
+    margin-right: 10px;
+}
+.conversation-in p{
+    font-size: .9rem;
+    background-color: #fff;
+    padding: 10px 10px;
+    border-radius: 15px;
+    margin-bottom: 0;
+}

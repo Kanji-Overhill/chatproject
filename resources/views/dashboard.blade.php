@@ -102,6 +102,14 @@
                     </div>
                 </div>
                 <div class="conversation-content">
+                    <div class="conversation-in d-flex align-items-start">
+                        <img src="{{ url('img/profile.svg') }}" alt="">
+                        <p>Loremp ipsum</p>
+                    </div>
+                    <div class="conversation-in d-flex align-items-start flex-row-reverse">
+                        <img src="{{ url('img/profile.svg') }}" alt="">
+                        <p>Loremp ipsum</p>
+                    </div>
                     <div class="form-chat d-flex">
                         <input type="text" class="flex-grow-1" placeholder="Write Here">
                         <a href=""><img src="{{ url('img/happy.svg') }}" alt=""></a>
